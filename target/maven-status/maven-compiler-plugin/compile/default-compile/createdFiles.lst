@@ -1,0 +1,6 @@
+org\womelanczuk\springproject\api\ApiUtil.class
+org\womelanczuk\springproject\SpringProjectApplication.class
+org\womelanczuk\springproject\model\Person.class
+org\womelanczuk\springproject\api\Contactsrepo.class
+org\womelanczuk\springproject\api\ApiApi.class
+org\womelanczuk\springproject\api\ConfigRepo.class
